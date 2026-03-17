@@ -1,0 +1,122 @@
+2026-03-10 09:21:01.838 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:21:01.838 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:21:01.867 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:21:01.888 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:21:04.346 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:21:04.346 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:21:04.371 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:21:04.386 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:21:24.523 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:21:24.523 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:21:24.535 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:21:24.555 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:22:01.246 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:22:01.246 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:22:01.263 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:22:01.273 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:24:27.733 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:24:27.733 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:24:27.749 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:24:27.765 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:24:41.924 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:24:41.926 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:24:41.975 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:24:42.002 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:25:58.141 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:25:58.142 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:25:58.164 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:25:58.181 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:26:14.726 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:26:14.727 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:26:14.747 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:26:14.759 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:26:48.697 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:26:48.699 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:26:48.729 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:26:48.746 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:27:07.824 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:27:07.824 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:27:07.844 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:27:07.859 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:33:11.172 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:33:11.172 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:33:11.199 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:33:11.213 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:52:04.889 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:52:04.889 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:52:04.924 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:52:04.940 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:52:35.223 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:52:35.232 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:52:35.275 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:52:35.304 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:52:35.633 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:52:35.635 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:52:35.666 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:52:35.686 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:53:33.344 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:53:33.350 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:53:33.373 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:53:33.392 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:54:00.282 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:54:00.284 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:54:00.311 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:54:00.330 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:57:09.886 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:57:09.886 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:57:09.916 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:57:09.934 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:57:19.172 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:57:19.173 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:57:19.193 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:57:19.203 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:57:37.981 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:57:37.983 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:57:38.068 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:57:38.104 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:57:39.691 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:57:39.693 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:57:39.737 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:57:39.762 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:57:44.038 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:57:44.040 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:57:44.088 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:57:44.113 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:57:45.526 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:57:45.530 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:57:45.558 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:57:45.578 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 09:58:03.865 INFO  [main] com.dbmcp.DatabaseMcpServer - Database MCP server started in stdio mode
+2026-03-10 09:58:03.866 INFO  [main] com.dbmcp.DatabaseMcpServer - No default database connection configured. Clients must pass connection params or connection_id.
+2026-03-10 09:58:03.914 INFO  [pool-1-thread-1] i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0-alpha.3]
+2026-03-10 09:58:03.935 WARN  [pool-1-thread-1] i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-06-18, so the server will suggest the 2024-11-05 version instead
+2026-03-10 10:50:15.463 INFO  [main] org.eclipse.jetty.server.Server - jetty-11.0.18; built: 2023-10-27T02:14:36.036Z; git: 5a9a771a9fbcb9d36993630850f612581b78c13f; jvm 17.0.13+10-LTS-268
+2026-03-10 10:50:15.500 INFO  [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6f80fafe{/,null,AVAILABLE}
+2026-03-10 10:50:15.588 INFO  [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@ea9b7c6{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2026-03-10 10:50:15.594 INFO  [main] org.eclipse.jetty.server.Server - Started Server@42a9e5d1{STARTING}[11.0.18,sto=0] @770ms
+2026-03-10 10:50:15.594 INFO  [main] com.dbmcp.DatabaseServerApp - Database MCP Server started at http://0.0.0.0:8080/mcp (health: /health). sessionTtl=900s, poolTtl=1800s, cleanup=60s, maxSessions=200, maxPools=50
+2026-03-10 10:50:15.594 INFO  [main] com.dbmcp.DatabaseServerApp - No default database connection configured. Clients must provide a connection object or reuse connection_id.
+2026-03-10 10:50:15.594 INFO  [main] com.dbmcp.DatabaseServerApp - Authentication mode: NONE, allowedHosts=[], allowedOrigins=[], activeSessions=0, activePools=0
+2026-03-10 10:50:15.595 WARN  [main] com.dbmcp.DatabaseServerApp - Authentication is disabled. Configure DATABASE_MCP_AUTH_MODE and token/header settings before exposing this service publicly.
+2026-03-10 10:50:58.830 INFO  [main] org.eclipse.jetty.server.Server - jetty-11.0.18; built: 2023-10-27T02:14:36.036Z; git: 5a9a771a9fbcb9d36993630850f612581b78c13f; jvm 17.0.13+10-LTS-268
+2026-03-10 10:50:58.856 INFO  [database-mcp-shutdown] org.eclipse.jetty.server.Server - Stopped Server@6b54655f{STOPPING}[11.0.18,sto=0]
+2026-03-10 10:59:28.712 INFO  [main] org.eclipse.jetty.server.Server - jetty-11.0.18; built: 2023-10-27T02:14:36.036Z; git: 5a9a771a9fbcb9d36993630850f612581b78c13f; jvm 17.0.13+10-LTS-268
+2026-03-10 10:59:28.728 INFO  [database-mcp-shutdown] org.eclipse.jetty.server.Server - Stopped Server@6b54655f{STOPPING}[11.0.18,sto=0]
+2026-03-10 11:08:27.381 INFO  [main] org.eclipse.jetty.server.Server - jetty-11.0.18; built: 2023-10-27T02:14:36.036Z; git: 5a9a771a9fbcb9d36993630850f612581b78c13f; jvm 17.0.13+10-LTS-268
+2026-03-10 11:08:27.419 INFO  [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@37f21974{/,null,AVAILABLE}
+2026-03-10 11:08:27.514 INFO  [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@7c2b6087{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2026-03-10 11:08:27.521 INFO  [main] org.eclipse.jetty.server.Server - Started Server@6b54655f{STARTING}[11.0.18,sto=0] @734ms
+2026-03-10 11:08:27.521 INFO  [main] com.dbmcp.DatabaseServerApp - Database MCP Server started at http://0.0.0.0:8080/mcp (health: /health). sessionTtl=900s, poolTtl=1800s, cleanup=60s, maxSessions=200, maxPools=50
+2026-03-10 11:08:27.521 INFO  [main] com.dbmcp.DatabaseServerApp - No default database connection configured. Clients must provide a connection object or reuse connection_id.
+2026-03-10 11:08:27.521 INFO  [main] com.dbmcp.DatabaseServerApp - Authentication mode: NONE, allowedHosts=[], allowedOrigins=[], activeSessions=0, activePools=0
+2026-03-10 11:08:27.521 WARN  [main] com.dbmcp.DatabaseServerApp - Authentication is disabled. Configure DATABASE_MCP_AUTH_MODE and token/header settings before exposing this service publicly.
+2026-03-10 11:33:28.246 INFO  [qtp354605216-40] i.m.server.McpStatelessAsyncServer - Client initialize request - Protocol: 2025-06-18, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null, elicitation=null], Info: Implementation[name=codex-mcp-client, title=Codex, version=0.112.0]
+2026-03-10 11:33:28.317 WARN  [qtp354605216-28] i.m.s.DefaultMcpStatelessServerHandler - Missing handler for notification type: notifications/initialized
+2026-03-10 11:33:30.649 ERROR [qtp354605216-30] i.m.s.t.HttpServletStatelessServerTransport - Failed to handle request: Missing handler for request type: resources/list
+2026-03-10 11:33:30.662 ERROR [qtp354605216-31] i.m.s.t.HttpServletStatelessServerTransport - Failed to handle request: Missing handler for request type: resources/templates/list
+2026-03-10 11:35:02.852 INFO  [boundedElastic-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-10 11:36:03.574 INFO  [boundedElastic-1] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2026-03-10 11:36:05.342 INFO  [boundedElastic-1] com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@51a8d583
+2026-03-10 11:36:05.343 INFO  [boundedElastic-1] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2026-03-10 12:23:27.243 INFO  [dbmcp-connection-cleanup] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2026-03-10 12:23:27.245 INFO  [dbmcp-connection-cleanup] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.

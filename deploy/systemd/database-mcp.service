@@ -1,0 +1,17 @@
+[Unit]
+Description=Database MCP Server
+After=network.target
+
+[Service]
+Type=simple
+User=database-mcp
+Group=database-mcp
+WorkingDirectory=/opt/database-mcp
+EnvironmentFile=/etc/database-mcp/database-mcp.env
+ExecStart=/usr/bin/java -jar /opt/database-mcp/database-mcp-server.jar
+Restart=on-failure
+RestartSec=5
+SuccessExitStatus=143
+
+[Install]
+WantedBy=multi-user.target

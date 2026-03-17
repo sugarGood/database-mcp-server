@@ -1,0 +1,11 @@
+2026-03-11 11:12:17.745 INFO  [main] org.eclipse.jetty.server.Server - jetty-11.0.18; built: 2023-10-27T02:14:36.036Z; git: 5a9a771a9fbcb9d36993630850f612581b78c13f; jvm 17.0.13+10-LTS-268
+2026-03-11 11:12:17.802 INFO  [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@52500920{/,null,AVAILABLE}
+2026-03-11 11:12:17.849 INFO  [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@10c626be{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2026-03-11 11:12:17.852 INFO  [main] org.eclipse.jetty.server.Server - Started Server@40e10ff8{STARTING}[11.0.18,sto=0] @1784ms
+2026-03-11 11:12:17.852 INFO  [main] com.dbmcp.DatabaseServerApp - Database MCP Server started at http://0.0.0.0:8080/mcp (health: /health). sessionTtl=900s, poolTtl=1800s, cleanup=60s, maxSessions=200, maxPools=50
+2026-03-11 11:12:17.852 INFO  [main] com.dbmcp.DatabaseServerApp - No default database connection configured. Clients must provide a connection object or reuse connection_id.
+2026-03-11 11:12:17.852 INFO  [main] com.dbmcp.DatabaseServerApp - Authentication mode: NONE, allowedHosts=[], allowedOrigins=[], activeSessions=0, activePools=0
+2026-03-11 11:12:17.853 WARN  [main] com.dbmcp.DatabaseServerApp - Authentication is disabled. Configure DATABASE_MCP_AUTH_MODE and token/header settings before exposing this service publicly.
+2026-03-11 14:20:39.533 INFO  [JettyShutdownThread] org.eclipse.jetty.server.Server - Stopped Server@40e10ff8{STOPPING}[11.0.18,sto=0]
+2026-03-11 14:20:39.600 INFO  [JettyShutdownThread] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@10c626be{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2026-03-11 14:20:39.630 INFO  [JettyShutdownThread] o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@52500920{/,null,STOPPED}
